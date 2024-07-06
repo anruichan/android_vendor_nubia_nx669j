@@ -513,22 +513,14 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.capabilityconfigstore@1.0-impl \
     vendor.qti.hardware.fm@1.0-impl \
     vulkan.adreno \
-    libAlacSwDec \
-    libApeSwDec \
     libC2D2 \
     libCB \
-    libFlacSwDec \
-    libMpeghSwEnc \
-    libOmxAacDec \
     libOmxAlacDec \
-    libOmxAlacDecSw \
     libOmxAmrDec \
     libOmxAmrwbplusDec \
     libOmxApeDec \
-    libOmxApeDecSw \
     libOmxEvrcDec \
     libOmxG711Dec \
-    libOmxMpeghEncSw \
     libOmxQcelp13Dec \
     libOmxWmaDec \
     libOpenCL \
@@ -628,7 +620,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.qspmhal@1.0 \
     vendor.qti.voiceprint@1.0 \
     libOmxDsdDec \
-    libOmxMpeghDecSw \
     libadm \
     libadpcmdec \
     libdrc \
