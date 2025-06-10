@@ -1,0 +1,12 @@
+#systemLogEnable=TRUE
+overrideGPURotationUsecase=1
+overrideGPUDownscaleUsecase=1
+#enable3ADebugData=TRUE
+#enableTuningMetadata=TRUE
+FDFilterEngine=FD_DL_ARM
+raiserecoverysigabrt=FALSE
+disablePDLibLCR=TRUE
+multiCameraHWSyncMask=0x01
+AECGainThresholdForQCFA=2.0
+logInfoMask=0x80
+overrideLogLevels=0x00
