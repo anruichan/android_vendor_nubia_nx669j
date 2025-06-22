@@ -1456,10 +1456,10 @@ PRODUCT_PACKAGES += \
     izat.xt.srv \
     qcrilhook \
     vendor.qti.hardware.alarm-V1.0-java \
-    android.hardware.gnss@2.1-service-qti \
-    android.hardware.neuralnetworks@1.3-service-qti \
-    c2_manifest_vendor \
-    manifest_android.hardware.drm@1.3-service.widevine \
-    vendor.qti.diag.hal.service \
-    vendor.qti.gnss@4.0-service \
-    vendor.qti.hardware.servicetracker@1.2-service
+    android.hardware.gnss@2.1-service-qti.xml \
+    android.hardware.neuralnetworks@1.3-service-qti.xml \
+    c2_manifest_vendor.xml \
+    manifest_android.hardware.drm@1.3-service.widevine.xml \
+    vendor.qti.diag.hal.service.xml \
+    vendor.qti.gnss@4.0-service.xml \
+    vendor.qti.hardware.servicetracker@1.2-service.xml
