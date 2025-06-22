@@ -438,6 +438,7 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/nx669j/proprietary/vendor/etc/ssg/ta_config.json:$(TARGET_COPY_OUT_VENDOR)/etc/ssg/ta_config.json \
     vendor/nubia/nx669j/proprietary/vendor/etc/ssg/tz_whitelist.json:$(TARGET_COPY_OUT_VENDOR)/etc/ssg/tz_whitelist.json \
     vendor/nubia/nx669j/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
+    vendor/nubia/nx669j/proprietary/vendor/etc/thermal-enginer-nubia.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-enginer-nubia.conf \
     vendor/nubia/nx669j/proprietary/vendor/etc/video_system_specs.json:$(TARGET_COPY_OUT_VENDOR)/etc/video_system_specs.json \
     vendor/nubia/nx669j/proprietary/vendor/etc/vmmgr.conf:$(TARGET_COPY_OUT_VENDOR)/etc/vmmgr.conf \
     vendor/nubia/nx669j/proprietary/vendor/firmware/1-fastblood_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/1-fastblood_RTP.bin \
