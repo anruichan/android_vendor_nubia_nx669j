@@ -1236,7 +1236,7 @@ PRODUCT_PACKAGES += \
     hvdcp_opti \
     android.hardware.authsecret@1.0-service-qti \
     android.hardware.bluetooth@1.0-service-qti \
-    android.hardware.camera.provider@2.4-service_64 \
+    android.hardware.camera.provider@2.4-service_64-vendor \
     android.hardware.drm@1.3-service.widevine \
     android.hardware.gatekeeper@1.0-service-qti \
     android.hardware.gnss@2.1-service-qti \

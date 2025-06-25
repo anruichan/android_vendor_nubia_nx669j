@@ -13116,7 +13116,8 @@ cc_prebuilt_binary {
 }
 
 cc_prebuilt_binary {
-	name: "android.hardware.camera.provider@2.4-service_64",
+	name: "android.hardware.camera.provider@2.4-service_64-vendor",
+	stem: "android.hardware.camera.provider@2.4-service_64",
 	owner: "nubia",
 	target: {
 		android_arm64: {
