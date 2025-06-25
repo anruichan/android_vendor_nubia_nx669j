@@ -555,10 +555,13 @@ PRODUCT_PACKAGES += \
     libcapiv2svacnn \
     libcapiv2svarnn \
     libcapiv2vop \
+    libcdsprpc \
     libcomprcapture \
     libdiag \
+    libdsutils \
     libdts-eagle-shared \
     libexthwplugin \
+    libfastcvdsp_stub \
     libfastcvopt \
     libgcs-calwrapper \
     libgcs-ipc \
@@ -573,6 +576,7 @@ PRODUCT_PACKAGES += \
     liblistensoundmodel2 \
     libllvm-glnext \
     libllvm-qcom \
+    libmdmdetect \
     libmmosal-vendor \
     libmulawdec \
     libperfconfig \
@@ -599,6 +603,7 @@ PRODUCT_PACKAGES += \
     libqti-utils \
     libqtigef \
     libsndmonitor \
+    libsoc_helper \
     libspkrprot \
     libssrec \
     libstagefright_soft_qtiflacdec \
@@ -612,6 +617,7 @@ PRODUCT_PACKAGES += \
     libshoebox \
     vendor.qti.hardware.bluetooth_sar@1.0 \
     vendor.qti.hardware.bluetooth_sar@1.1 \
+    vendor.qti.hardware.dsp@1.0 \
     vendor.qti.hardware.fm@1.0 \
     vendor.qti.hardware.iop@1.0 \
     vendor.qti.hardware.iop@2.0 \
@@ -619,6 +625,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.vpp@2.0 \
     vendor.qti.memory.pasrmanager@1.0 \
     vendor.qti.memory.pasrmanager@1.1 \
+    vendor.qti.qspmhal@1.0 \
     vendor.qti.voiceprint@1.0 \
     libOmxDsdDec \
     libOmxMpeghDecSw \
@@ -846,7 +853,6 @@ PRODUCT_PACKAGES += \
     libcdfw \
     libcdfw_remote_api \
     libcdsp_default_listener \
-    libcdsprpc \
     libchilog \
     libcne \
     libcneapiclient \
@@ -869,8 +875,6 @@ PRODUCT_PACKAGES += \
     libdrmfs \
     libdrmtime \
     libdsi_netctrl \
-    libdsutils \
-    libfastcvdsp_stub \
     libgameoptfeature \
     libgarden \
     libgarden_haltests_e2e \
@@ -909,7 +913,6 @@ PRODUCT_PACKAGES += \
     liblowi_wifihal \
     liblqe \
     libmctfengine_stub \
-    libmdmdetect \
     libmdsprpc \
     libmemperfd \
     libmeters-ns \
@@ -1007,7 +1010,6 @@ PRODUCT_PACKAGES += \
     libsns_registry_skel \
     libsnsapi \
     libsnsdiaglog \
-    libsoc_helper \
     libsoc_helper_jni \
     libspcom \
     libspl \
@@ -1089,7 +1091,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.data.latency@1.0 \
     vendor.qti.hardware.data.lce@1.0 \
     vendor.qti.hardware.data.qmi@1.0 \
-    vendor.qti.hardware.dsp@1.0 \
     vendor.qti.hardware.eid@1.0 \
     vendor.qti.hardware.mwqemadapter@1.0 \
     vendor.qti.hardware.qccsyshal@1.0 \
@@ -1149,7 +1150,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.latency@2.0 \
     vendor.qti.latency@2.1 \
     vendor.qti.qspmhal@1.0-impl \
-    vendor.qti.qspmhal@1.0 \
     bm2n06 \
     bm2n08 \
     capi_v2_aptX_CLHDADV_Encoder \
