@@ -573,7 +573,7 @@ PRODUCT_PACKAGES += \
     liblistensoundmodel2 \
     libllvm-glnext \
     libllvm-qcom \
-    libmmosal \
+    libmmosal-vendor \
     libmulawdec \
     libperfconfig \
     libperfgluelayer \
